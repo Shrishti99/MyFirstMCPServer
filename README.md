@@ -1,2 +1,1 @@
-# MyFirstMCPServer
-This is code for MCP Server
+Hello this is my first MCP server project.
